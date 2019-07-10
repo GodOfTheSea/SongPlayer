@@ -1,0 +1,9 @@
+C:\Users\Matt\Desktop\SongPlayer\SongPlayer\bin\Release\SongPlayer.exe.config
+C:\Users\Matt\Desktop\SongPlayer\SongPlayer\bin\Release\SongPlayer.exe
+C:\Users\Matt\Desktop\SongPlayer\SongPlayer\bin\Release\SongPlayer.pdb
+C:\Users\Matt\Desktop\SongPlayer\SongPlayer\obj\Release\SongPlayer.SongPlayer.resources
+C:\Users\Matt\Desktop\SongPlayer\SongPlayer\obj\Release\SongPlayer.Properties.Resources.resources
+C:\Users\Matt\Desktop\SongPlayer\SongPlayer\obj\Release\SongPlayer.csproj.GenerateResource.Cache
+C:\Users\Matt\Desktop\SongPlayer\SongPlayer\obj\Release\SongPlayer.exe
+C:\Users\Matt\Desktop\SongPlayer\SongPlayer\obj\Release\SongPlayer.pdb
+C:\Users\Matt\Desktop\SongPlayer\SongPlayer\obj\Release\SongPlayer.csprojResolveAssemblyReference.cache
